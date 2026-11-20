@@ -5,7 +5,7 @@ description: Busca ofertas de empleo, prácticas y contrataciones del Estado per
 
 # Agente 6 · Buscador de empleo y contratos del Estado – Perú
 
-**Programa de Fortalecimiento de Capacidades para la Empleabilidad 2026 – UNACH**
+**Programa de Fortalecimiento de Capacidades para la Empleabilidad 2026**
 Complemento de los Cursos 1 y 3 · Ponente: Dr. Gerardo Ch. Chinguel
 
 > **Formato universal.** Funciona como *Skill* de Claude, Gem de Gemini o GPT personalizado.
