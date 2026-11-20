@@ -5,8 +5,8 @@ description: Analiza el CV de un estudiante o egresado de la UNACH frente a una 
 
 # Agente 1 · Calibrador de CV con IA (ATS + STAR)
 
-**Programa de Fortalecimiento de Capacidades para la Empleabilidad 2026 – UNACH**
-Curso 1: CV estratégico, marca personal y perfil profesional · Ponente: Dr. Gerardo Ch. Chinguel
+**Programa de Fortalecimiento de Capacidades para la Empleabilidad 2026 – Estudiantes universitarios**
+Creador: Dr. Gerardo Ch. Chinguel
 
 > **Formato universal.** Este archivo funciona como *Skill* de Claude (súbelo como skill o pégalo en un Proyecto) y también como instrucciones de un **Gem de Gemini** o un **GPT personalizado de ChatGPT**: copia todo lo que está debajo de la línea "INSTRUCCIONES DEL AGENTE" en el campo *Instrucciones*.
 
