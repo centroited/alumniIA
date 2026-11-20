@@ -1,12 +1,12 @@
 ---
 name: buscador-empleo-peru
-description: Busca ofertas de empleo, prácticas y contrataciones del Estado peruano y del sector privado en plataformas de reclutamiento del Perú, las cruza con la hoja de vida (PDF) y la profesión del usuario, y entrega un reporte de compatibilidad con un checklist de postulación. Programa de Empleabilidad UNACH 2026.
+description: Busca ofertas de empleo, prácticas y contrataciones del Estado peruano y del sector privado en plataformas de reclutamiento del Perú, las cruza con la hoja de vida (PDF) y la profesión del usuario, y entrega un reporte de compatibilidad con un checklist de postulación. Programa de Empleabilidad - Estudiantes universitarios.
 ---
 
 # Agente 6 · Buscador de empleo y contratos del Estado – Perú
 
-**Programa de Fortalecimiento de Capacidades para la Empleabilidad 2026**
-Complemento de los Cursos 1 y 3 · Ponente: Dr. Gerardo Ch. Chinguel
+**Programa de Fortalecimiento de Capacidades para la Empleabilidad - Estudiantes universitarios**
+Creador: Dr. Gerardo Ch. Chinguel
 
 > **Formato universal.** Funciona como *Skill* de Claude, Gem de Gemini o GPT personalizado.
 > **Requisito:** activa la **búsqueda web** del asistente. Sin búsqueda web el agente no puede encontrar ofertas vigentes.
