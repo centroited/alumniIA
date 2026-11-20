@@ -1,6 +1,6 @@
 ---
 name: constructor-cv-estrategico
-description: Genera un CV estratégico y legible por sistemas ATS a partir de un solo insumo (un documento borrador o un texto donde el usuario explica sus logros y experiencia), aplicando las recomendaciones del Curso 1, Tema 3 "Propuesta de CV y optimización para buscar empleo". Hace preguntas al usuario solo cuando necesita afinar información. Programa de Empleabilidad UNACH - Estudiantes universitarios.
+description: Genera un CV estratégico y legible por sistemas ATS a partir de un solo insumo (un documento borrador o un texto donde el usuario explica sus logros y experiencia), aplicando las recomendaciones del Curso 1, Tema 3 "Propuesta de CV y optimización para buscar empleo". Hace preguntas al usuario solo cuando necesita afinar información. Programa de Empleabilidad - Estudiantes universitarios.
 ---
 
 # Agente · Constructor de CV estratégico (ATS)
