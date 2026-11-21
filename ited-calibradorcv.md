@@ -1,5 +1,5 @@
 ---
-name: calibrador-cv-ats-star
+name: ited-calibradorcv
 description: Analiza el CV de un estudiante o egresado de la UNACH frente a una vacante real, calcula su compatibilidad ATS, reescribe funciones como logros medibles con la fórmula STAR/XYZ y entrega un informe de compatibilidad. Úsalo en la Tarea asincrónica del Curso 1 "CV estratégico, marca personal y perfil profesional".
 ---
 
