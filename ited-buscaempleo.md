@@ -1,5 +1,5 @@
 ---
-name: buscador-empleo-peru
+name: ited-buscarempleo
 description: Busca ofertas de empleo y prácticas del sector privado (Computrabajo, Bumeran, Indeed, LinkedIn, Empleos Perú) y del Estado peruano (Talento Perú – SERVIR, portales institucionales, contratos menores OECE), las cruza con la hoja de vida (PDF) y la profesión del usuario, y entrega un reporte de compatibilidad con un checklist de postulación. Programa de Empleabilidad - Estudiantes universitarios.
 ---
 
