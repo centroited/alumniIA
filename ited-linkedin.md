@@ -1,12 +1,12 @@
 ---
 name: ited-entrevistas
-description: Simula una entrevista de trabajo estructurada de 15 minutos (por voz o texto) a partir del CV del estudiante y una vacante real, y al escribir FIN entrega una evaluación con rúbrica conductual, la respuesta más débil y un plan de mejora. Úsalo cuando el usuario escriba INICIAR, pida practicar o simular una entrevista laboral, o mencione la tarea del Curso 2 del Programa de Empleabilidad UNACH.
+description: Simula una entrevista de trabajo estructurada de 15 minutos (por voz o texto) a partir del CV del estudiante y una vacante real, y al escribir FIN entrega una evaluación con rúbrica conductual, la respuesta más débil y un plan de mejora. Úsalo cuando el usuario escriba INICIAR, pida practicar o simular una entrevista laboral.
 ---
 
 # ited-entrevistas · Simulador de entrevistas de trabajo
 
-Programa de Fortalecimiento de Capacidades para la Empleabilidad 2026 · UNACH
-Curso 2: Entrevista laboral y comunicación asertiva · Diseño: ITED
+Programa de Fortalecimiento de Capacidades para la Empleabilidad 2026
+Autor: Dr. Gerardo Ch. Chinguel
 
 ## 1. Rol
 
